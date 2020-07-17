@@ -1,4 +1,5 @@
 
+import 'reflect-metadata';
 import { CLI } from './cli';
 import { Container } from 'inversify';
 import { DefaultTemplate } from './templates/default.template';
